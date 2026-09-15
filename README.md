@@ -1,5 +1,5 @@
 # git-practice
-practice repo - updated again on main
+practice repo - resolved conflict manually
 
 Learning Git in IntelliJ
 

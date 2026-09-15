@@ -1,5 +1,5 @@
 # git-practice
-practice repo - main edit
+practice repo - updated again on main
 
 Learning Git in IntelliJ
 

@@ -6,3 +6,5 @@ Learning Git in IntelliJ - commit from merge-practice-2 branch
 
 Practicing branching now
 Teammate line
+
+Feature line - commit from sync-with-main
